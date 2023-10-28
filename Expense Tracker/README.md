@@ -1,4 +1,4 @@
-# expensee
+# Expense Tracker
 A classic expense tracker app with elegant UI developed using Flutter along with Firebase. It has adetailed overview of expenses and incomes along with essential statistics and several other functionalities of a fully functional expense tracker.
 
 The application has three major features - daily transaction, statistical analysis and profile view of the user. 
@@ -17,7 +17,5 @@ FireBase has been used to enable the login/signup feature for the app as well fo
 
 
 
-![4](https://user-images.githubusercontent.com/64916728/87178220-7217db00-c2fa-11ea-8ade-c4ea8ffeb870.PNG)
-----------------------------------------------------------------------------------------------------------
 
 
